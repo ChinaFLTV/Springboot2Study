@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "wife",
+      "type": "boot.bean.Wife",
+      "sourceType": "boot.bean.Wife"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wife.age",
+      "type": "java.lang.Integer",
+      "sourceType": "boot.bean.Wife"
+    },
+    {
+      "name": "wife.name",
+      "type": "java.lang.String",
+      "sourceType": "boot.bean.Wife"
+    }
+  ],
+  "hints": []
+}
