@@ -2,9 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day11-12" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day4-1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day4/Day5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day5-1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Day6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day7-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day9-10" vcs="Git" />
   </component>
 </project>
