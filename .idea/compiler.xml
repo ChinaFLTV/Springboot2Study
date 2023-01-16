@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Day11-12" />
+        <module name="Day13-14" />
         <module name="Day4-1" />
         <module name="Day1" />
         <module name="Day5-1" />
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Day1" options="-parameters" />
       <module name="Day11-12" options="-parameters" />
+      <module name="Day13-14" options="-parameters" />
       <module name="Day2" options="-parameters" />
       <module name="Day3" options="-parameters" />
       <module name="Day4" options="-parameters" />
