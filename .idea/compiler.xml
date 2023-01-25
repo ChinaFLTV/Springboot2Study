@@ -13,6 +13,9 @@
         <module name="Day13-14" />
         <module name="Day4-1" />
         <module name="Day5-1" />
+        <module name="Day21-22" />
+        <module name="Day23-24" />
+        <module name="Day25-26" />
         <module name="Day19-20" />
         <module name="Day1" />
         <module name="Day2" />
@@ -34,6 +37,9 @@
       <module name="Day17-18" options="-parameters" />
       <module name="Day19-20" options="-parameters" />
       <module name="Day2" options="-parameters" />
+      <module name="Day21-22" options="-parameters" />
+      <module name="Day23-24" options="-parameters" />
+      <module name="Day25-26" options="-parameters" />
       <module name="Day3" options="-parameters" />
       <module name="Day4" options="-parameters" />
       <module name="Day4-1" options="-parameters" />
